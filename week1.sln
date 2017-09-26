@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nums1to20", "Nums1to20\Nums
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleOf55Stars", "TriangleOf55Stars\TriangleOf55Stars.csproj", "{ECBB613A-72D3-40BC-B678-CE8A41B1CFFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{DB555F34-3FEF-4B46-9587-B9A552530111}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{ECBB613A-72D3-40BC-B678-CE8A41B1CFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECBB613A-72D3-40BC-B678-CE8A41B1CFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECBB613A-72D3-40BC-B678-CE8A41B1CFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB555F34-3FEF-4B46-9587-B9A552530111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB555F34-3FEF-4B46-9587-B9A552530111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB555F34-3FEF-4B46-9587-B9A552530111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB555F34-3FEF-4B46-9587-B9A552530111}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
